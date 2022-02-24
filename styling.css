@@ -1,0 +1,116 @@
+.logo{
+    height: 40px;
+    width: 40px;
+}
+
+.sp{
+    margin-right: auto;
+}
+
+
+
+header{
+    background-color: blueviolet;
+    display: flex; 
+}
+
+.heading{
+    margin-top: 45px;
+    margin-left: 12px;
+}
+
+#img1{
+    margin-left: 44px;
+    margin-top: 40px;
+}
+
+.b1{
+    margin-top: 0px;
+    background-color: rgba(226, 167, 58, 0.993);
+    height: 58px;
+    width: 140px;
+}
+
+:hover.b2{
+    background-color: red;
+}
+
+.row-header{
+    color: white;
+}
+.img1{
+    height: 125px;
+    width: 130px;
+}
+
+.reserve{
+    color: black;
+}
+
+.i1{
+    margin-top: 25px; 
+    float: right;
+    height: 100px;
+    width: 110px;
+}
+
+.col1{
+    margin-left: 19px;
+}
+
+.col2{
+    margin-top: 28px;
+}
+
+.col3{
+    margin-top: 45px;
+}
+
+.i2{
+    margin-top: 15px; 
+    float: left;
+    height: 100px;
+    width: 115px;
+}
+
+.i3{ 
+    float: right;
+    height: 125px;
+    width: 120px;
+}
+
+.sp{
+    font-size: 25px;    
+}
+
+.p1{
+    font-size: 18px;
+}
+
+.last{
+    text-align: center;
+}
+
+.links{
+    margin-left: 25px;
+}
+
+a{
+    text-decoration: none;
+}
+
+a:hover{
+    cursor: pointer;
+    text-decoration: none;
+}
+
+.card-header{
+    background-color: orange;
+    color: white;
+    display: flex;
+}
+
+footer{
+    background-color: #c1a1df;
+    background-size: cover;
+}
