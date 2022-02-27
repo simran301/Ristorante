@@ -1,116 +1,147 @@
-.logo{
+.logo {
     height: 40px;
     width: 40px;
 }
 
-.sp{
+.sp {
     margin-right: auto;
 }
 
-
-
-header{
+header {
     background-color: blueviolet;
-    display: flex; 
+    display: flex;
 }
 
-.heading{
+.heading {
     margin-top: 45px;
     margin-left: 12px;
 }
 
-#img1{
+#img1 {
     margin-left: 44px;
     margin-top: 40px;
 }
 
-.b1{
+.lgbutton {
+    float: right;
+}
+
+.f2 {
+    width: 625px;
+}
+
+.f1 {
+    width: 620px;
+}
+
+.login {
+    text-decoration: none;
+    border: none;
+    height: 40px;
+    width: 115px;
+    font-size: medium;
+}
+
+i {
+    width: 30px;
+}
+
+.lg {
+    background-color: blueviolet;
+}
+
+.lg1 {
+    background-color: #ddc5f3;
+}
+
+.b1 {
     margin-top: 0px;
     background-color: rgba(226, 167, 58, 0.993);
     height: 58px;
     width: 140px;
 }
 
-:hover.b2{
+:hover.b2 {
     background-color: red;
 }
 
-.row-header{
+.row-header {
     color: white;
 }
-.img1{
+
+.img1 {
     height: 125px;
     width: 130px;
 }
 
-.reserve{
+.reserve {
     color: black;
 }
 
-.i1{
-    margin-top: 25px; 
+.i1 {
+    margin-top: 25px;
     float: right;
     height: 100px;
     width: 110px;
 }
 
-.col1{
+.col1 {
     margin-left: 19px;
 }
 
-.col2{
+.col2 {
     margin-top: 28px;
 }
 
-.col3{
+.col3 {
     margin-top: 45px;
 }
 
-.i2{
-    margin-top: 15px; 
+.i2 {
+    margin-top: 15px;
     float: left;
     height: 100px;
     width: 115px;
 }
 
-.i3{ 
+.i3 {
     float: right;
     height: 125px;
     width: 120px;
 }
 
-.sp{
-    font-size: 25px;    
+.sp {
+    font-size: 25px;
 }
 
-.p1{
+.p1 {
     font-size: 18px;
 }
 
-.last{
+.last {
     text-align: center;
 }
 
-.links{
+.links {
     margin-left: 25px;
 }
 
-a{
+a {
     text-decoration: none;
 }
 
-a:hover{
+a:hover {
     cursor: pointer;
     text-decoration: none;
 }
 
-.card-header{
+.card-header {
     background-color: orange;
     color: white;
     display: flex;
 }
 
-footer{
+footer {
     background-color: #c1a1df;
     background-size: cover;
 }
